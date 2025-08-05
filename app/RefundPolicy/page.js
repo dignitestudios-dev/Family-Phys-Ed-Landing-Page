@@ -4,7 +4,7 @@
 export default function page() {
   return (
     <div className="w-full bg-[#1C1C1E] ">
-      <div className="text-white text-4xl text-center  font-bold p-12">Terms and Conditions for <span className="text-[#FDFC22]">Family Phys. Ed.</span></div>
+      <div className="text-white text-4xl text-center  font-bold p-12">Refund Policy for <span className="text-[#FDFC22]">Family Phys. Ed.</span></div>
       <div className="text-white leading-relaxed   px-12 pb-12 space-y-5">
         <h2 className="text-3xl font-bold mt-10 mb-2 text-[#FDFC22]">1. Introduction</h2>
         <p className=" mb-6 px-8">
