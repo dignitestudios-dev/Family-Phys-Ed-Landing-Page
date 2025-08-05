@@ -5,7 +5,7 @@ export default function page() {
   return (
     <div className="w-full bg-[#1C1C1E] ">
       <div className="text-white text-4xl text-center  font-bold p-12">Refund Policy for <span className="text-[#FDFC22]">Family Phys. Ed.</span></div>
-      <div className="text-white leading-relaxed   px-12 pb-12 space-y-5">
+      {/* <div className="text-white leading-relaxed   px-12 pb-12 space-y-5">
         <h2 className="text-3xl font-bold mt-10 mb-2 text-[#FDFC22]">1. Introduction</h2>
         <p className=" mb-6 px-8">
           Welcome to Family Phys. Ed. (“the App”). The App is a marketplace that
@@ -233,7 +233,7 @@ export default function page() {
   <span className="block">Email: <a href="mailto:info@familyphysed.com" className="text-blue-600 underline">info@familyphysed.com</a></span>
   <span className="block">Phone: 1-484-849-802</span>
 </p>
-    </div>
+    </div> */}
     </div>
   );
 }
