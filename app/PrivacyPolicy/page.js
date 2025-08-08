@@ -496,8 +496,8 @@ export default function page() {
 </p>
 
 <ul className="list-disc list-inside mb-6 space-y-1">
-  <li><strong>Email:</strong> info@familyphysed.com</li>
-  <li><strong>Phone:</strong> 1-484-849-8026</li>
+  <li><strong>Email:</strong> <a href="mailto:info@familyphysed.com" className="text-blue-600 underline">info@familyphysed.com</a></li>
+  <li><strong>Phone:</strong> 215-669-7955</li>
 </ul>
 
     </div>

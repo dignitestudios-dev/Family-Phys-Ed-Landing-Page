@@ -131,7 +131,7 @@ export default function page() {
   Violations of this Code of Conduct may result in warnings, removal from activities, or other
   disciplinary actions, depending on the severity. If you have questions or concerns, contact us at{" "}
   <a href="mailto:info@familyphysed.com" className="text-blue-600 underline">info@familyphysed.com</a> or{" "}
-  <a href="tel:2158506210" className="text-blue-600 underline">(215) 850-6210</a>.
+  <a href="tel:2158506210" className="text-blue-600 underline">215-669-7955.</a>.
 </p>
 <p className="mb-6">
   By following this Code, we create a supportive, fun, and healthy environment where families

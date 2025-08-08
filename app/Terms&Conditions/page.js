@@ -230,8 +230,8 @@ export default function page() {
 <h2 className="text-3xl font-bold mt-10 mb-2 text-[#FDFC22]">24. Contact Information</h2>
 <p className="mb-6 px-8">
   For questions regarding these Terms, please contact us at:<br />
-  <span className="block">Email: <a href="mailto:info@familyphysed.com" className="text-blue-600 underline">info@familyphysed.com</a></span>
-  <span className="block">Phone: 1-484-849-802</span>
+  <span className="block">Email: <a href="mailto:info@familyphysed.com" className="text-blue-600 underline">info@familyphysed.com </a></span>
+  <span className="block">Phone: 215-669-7955</span>
 </p>
     </div>
     </div>
