@@ -44,8 +44,8 @@ export default function page() {
 <h3 className="text-xl font-semibold mt-6 mb-2 text-[#FDFC22]">Enforcement</h3>
 <p className="mb-4">
   Violations may lead to warnings, removal, or further action. Contact us at{' '}
-  <a href="mailto:familyphysed@gmail.com" className="text-blue-600 underline">familyphysed@gmail.com</a> or{' '}
-  <a href="tel:2158506210" className="text-blue-600 underline">(215) 850-6210</a> with concerns.
+  <a href="mailto:familyphysed@gmail.com" className="text-blue-600 underline">info@familyphysed.com</a> or{' '}
+  <a href="tel:2158506210" className="text-blue-600 underline">(215)-669-7955.</a> with concerns.
 </p>
 
 <p className="mb-6">
